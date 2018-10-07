@@ -1,0 +1,8 @@
+vlan_id,name,state,pvlan_role
+10,Finance-2Floor,active,
+15,Marketing-3Floor,active,
+20,Sales-4Floor,active,
+25,Research-5Floor,active,
+80,Inactive,suspend,
+99,Trunk,active,
+101,IT,active,

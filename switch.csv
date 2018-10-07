@@ -1,0 +1,10 @@
+interface,port_id,comment,ac_vlan,tr_untag,tr_tag
+Gi 0/1,A-1,Uplink to R-1,,99,"1,10,15,20,25,80-101"
+Gi 0/2,A-2,Uplink to R-2,,99,"1,10,15,20,25,80-101"
+Gi 0/3,1,PC-1,10,,
+Gi 0/4,2,PC-2,15,,
+Gi 0/5,3,PC-3,20,,
+Gi 0/6,4,PC-4,25,,
+Gi 0/7,5,MGMT-PC,101,,
+Gi 0/8,6,Access Switch,,99,"1,10,15,20,25"
+Gi 0/9,7,Unused port,,,
